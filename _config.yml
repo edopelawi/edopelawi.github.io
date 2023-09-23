@@ -28,7 +28,8 @@ twitter_username: edopelawi
 github_username:  edopelawi
 
 # Build settings
-theme: minima
+# theme: minima
+theme: chulapa-jekyll
 plugins:
   - jekyll-feed
 
