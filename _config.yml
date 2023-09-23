@@ -25,7 +25,19 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://edopelawi.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: edopelawi
-github_username:  edopelawi
+github_username: edopelawi
+
+# Authorship
+
+author:
+  name: Ricardo Pramana Suranta
+  avatar: https://github.com/devdhh.png
+  location: Jakarta, Indonesia
+  links:
+    url: https://twitter.com/edopelawi
+    icon: "fab fa-twitter"
+    label: "My personal Twitter"
+
 
 # Build settings
 # theme: minima
