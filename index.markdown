@@ -4,8 +4,7 @@
 
 title: "Ricardo Pramana Suranta"
 subtitle: "An enthusiastic engineer."
-layout: landingpage
-header_type: hero
+header_type: splash
 header_img: "./assets/img/header/temple-of-beauty-header-medium.jpeg"
 
 ---
