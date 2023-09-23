@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: An Enthusiastic Engineer
-email: ricardo.pramana@gmail.com
+email: ricardo.pramana [at] gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ricardo Pramana Suranta's personal site.
 baseurl: "" # the subpath of your site, e.g. /blog
